@@ -30,7 +30,7 @@
         {
           "anchor": "Visit Us",
           "href": "https://contractken.com/",
-          "icon": "images/visitus.png"
+          "icon": "/images/visitus.png"
         }
       ]
     }
